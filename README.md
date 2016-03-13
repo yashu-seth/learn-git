@@ -27,6 +27,7 @@ After adding the name execute update.py to update the readme.
 * Dushyant Mishra [zero1hac](https://github.com/zero1hac)
 * Govind Sahai [mafiya69](https://github.com/mafiya69)
 * Mit Shah [Mitshah4343](https://github.com/Mitshah4343)
+* Piyush Soni [piyushsoni27](https://github.com/piyushsoni27)
 * Rehas Sachdeva [rehassachdeva](https://github.com/rehassachdeva)
 * Rishabh Daal [rd13123013](https://github.com/rd13123013)
 * Sartaj Singh [leosartaj](https://github.com/leosartaj)
